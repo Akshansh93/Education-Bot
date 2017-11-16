@@ -1,1 +1,1 @@
-web: python app_wit.py
+worker: python app_wit.py
